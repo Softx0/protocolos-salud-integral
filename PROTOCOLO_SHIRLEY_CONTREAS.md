@@ -21,7 +21,8 @@
 - **CoQ10 (Ubiquinol) 100 mg** → Cofactor mitocondrial, potencia producción de energía (ATP).  
 - **Complejo B metilado (1 cápsula)** → Soporte de metabolismo energético, metilación y salud ovárica.  
 - **Omega-3 (1000 mg EPA/DHA)** → Antiinflamatorio, mejora sensibilidad insulínica y perfil lipídico.  
-- **Vitamina C 500 mg** → Regenera glutatión, antioxidante y soporte inmunológico.  
+- **Vitamina C 500 mg** → Regenera glutatión, antioxidante y soporte inmunológico.
+- Péptidos de colágeno 10 g
 
 ### 💪 4:00 pm – Pre / Intra / Post entrenamiento
 **Día de entrenamiento:**
@@ -57,7 +58,8 @@
 - CoQ10 100 mg  
 - Omega-3 1000 mg  
 - Complejo B metilado (1 cápsula)  
-- Vitamina C 500 mg  
+- Vitamina C 500 mg
+- Péptidos de colágeno 10 g
 
 ### 💪 4:00 pm – Entrenamiento
 - BCAA 5–10 g  
@@ -87,7 +89,8 @@
 - ALA 300 mg  
 - CoQ10 100 mg  
 - Omega-3 1000 mg  
-- Vitamina C 500 mg  
+- Vitamina C 500 mg
+- Péptidos de colágeno 10 g
 
 ### 💪 4:00 pm – Tarde / Entrenamiento
 - BCAA 5–10 g (si entrena)  
@@ -120,7 +123,8 @@
 - ALA 300 mg  
 - CoQ10 100 mg  
 - Omega-3 1000 mg  
-- Vitamina C 500 mg  
+- Vitamina C 500 mg
+- Péptidos de colágeno 10 g
 
 ### 💪 4:00 pm – Tarde
 - NAC 600 mg (si no entrena)  
@@ -148,12 +152,15 @@
 | **Myo-Inositol + D-Chiro-Inositol** | Mejora señalización de insulina y equilibrio ovárico en SOP. |
 | **Complejo B metilado** | Soporte de metilación, hormonas y energía celular. |
 | **Omega-3** | Antiinflamatorio, regula eicosanoides y mejora sensibilidad insulínica. |
-| **Vitamina C** | Refuerza sistema inmune y recicla glutatión. |
+| **Vitamina C** | Refuerza sistema inmune, protege pared vascular y recicla glutatión. |
 | **Vitamina D3 + K2 MK7** | Regula calcio, hormonas sexuales y función inmune. |
 | **Magnesio bisglicinato** | Relajante muscular, cofactor enzimático y promotor del sueño. |
 | **Ashwagandha** | Adaptógeno para estrés, cortisol y función tiroidea. |
 | **L-Tyrosina** | Precursor dopaminérgico, mejora concentración y ánimo. |
-| **Glicina** | Mejora sueño, reparación tisular y función hepática. |
+| **Glicina** | Mejora sueño, reparación tisular, GABA y función hepática. |
 | **BCAA / Glutamina** | Mantiene masa magra, equilibrio intestinal y recuperación. |
+| **Péptidos de colágeno** | Mejora calidad de piel, tejido conectivo y microvasculatura. |
+| **Diosmina / Hesperidina** | Venotónicos: mejoran retorno venoso, microcirculación y reducen edema. |
+
 
 ---

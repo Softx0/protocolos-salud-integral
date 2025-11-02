@@ -12,7 +12,8 @@
 - **Agua mineral con limón** → Hidratación, pH y estimulación del sistema digestivo.  
 - **Glicina 1 g** → Apoya la función hepática y modula cortisol matutino.  
 - **L-Tyrosina 500 mg (con café amargo)** → Precursor de dopamina y noradrenalina, mejora enfoque y energía.  
-- **NAC 600 mg (ayunas)** → Antioxidante, eleva glutatión, regula detox hepática y ejes hormonales.  
+- **NAC 600 mg (ayunas)** → Antioxidante, eleva glutatión, regula detox hepática y ejes hormonales.
+- **Diosmina/Hesperidina 450/50 mg** (en ayunas — soporte venoso)
 
 ### ☀️ 10:00–11:00 am – Primera comida
 - **ALA 300 mg** → Mejora sensibilidad a la insulina y reciclaje de antioxidantes.  
@@ -48,7 +49,8 @@
 ### 🕐 6:30 am – Al despertar
 - Agua con limón  
 - L-Tyrosina 500 mg  
-- NAC 600 mg  
+- NAC 600 mg
+- **Diosmina/Hesperidina 450/50 mg** (en ayunas — soporte venoso)
 
 ### ☀️ 10:00 am – Primera comida
 - ALA 300 mg  
@@ -78,7 +80,8 @@
 ### 🕐 6:30 am – Al despertar
 - Agua con limón  
 - L-Tyrosina 500 mg  
-- NAC 600 mg  
+- NAC 600 mg
+- **Diosmina/Hesperidina 450/50 mg** (en ayunas — soporte venoso)
 
 ### ☀️ 10:00 am – Primera comida
 - ALA 300 mg  
@@ -110,7 +113,8 @@
 ### 🕐 6:30 am – Al despertar
 - Agua con limón  
 - NAC 600 mg  
-- L-Tyrosina 500 mg  
+- L-Tyrosina 500 mg
+- **Diosmina/Hesperidina 450/50 mg** (en ayunas — soporte venoso)
 
 ### ☀️ 10:00 am – Primera comida
 - ALA 300 mg  

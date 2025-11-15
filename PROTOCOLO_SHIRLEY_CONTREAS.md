@@ -9,7 +9,6 @@
 **Fase de reconstrucción metabólica, alta sensibilidad a la insulina y mejor tolerancia al entrenamiento.**
 
 ### 🕐 6:30 am – Al despertar (ayunas)
-- **Glicina 1 g** → Apoya la función hepática y modula cortisol matutino.  
 - **L-Tyrosina 500 mg (con café amargo)** → Precursor de dopamina y noradrenalina, mejora enfoque y energía.
 - Péptidos de colágeno 10 g
 - **NAC 600 mg (ayunas)** → Antioxidante, eleva glutatión, regula detox hepática y ejes hormonales.
@@ -51,7 +50,6 @@ Si hay:
 **Estrógeno alto, máxima energía y rendimiento.**
 
 ### 🕐 6:30 am – Al despertar
-- **Glicina 1 g** → Apoya la función hepática y modula cortisol matutino.  
 - **L-Tyrosina 500 mg (con café amargo)** → Precursor de dopamina y noradrenalina, mejora enfoque y energía.  
 - Péptidos de colágeno 10 g
 - **NAC 600 mg (ayunas)** → Antioxidante, eleva glutatión, regula detox hepática y ejes hormonales.
@@ -92,7 +90,6 @@ Si hay:
 **Progesterona alta, retención y estrés oxidativo. Prioriza descanso y equilibrio.**
 
 ### 🕐 6:30 am – Al despertar
-- **Glicina 1 g** → Apoya la función hepática y modula cortisol matutino.  
 - **L-Tyrosina 500 mg (con café amargo)** → Precursor de dopamina y noradrenalina, mejora enfoque y energía.  
 - Péptidos de colágeno 10 g
 - **NAC 600 mg (ayunas)** → Antioxidante, eleva glutatión, regula detox hepática y ejes hormonales.
@@ -135,7 +132,6 @@ Si hay:
 **Descanso, depuración y reparación.**
 
 ### 🕐 6:30 am – Al despertar
-- **Glicina 1 g** → Apoya la función hepática y modula cortisol matutino.  
 - **NAC 600 mg (ayunas)** → Antioxidante, eleva glutatión, regula detox hepática y ejes hormonales.
 - Péptidos de colágeno 10 g
 - **L-Tyrosina 500 mg (con café amargo)** → Precursor de dopamina y noradrenalina, mejora enfoque y energía.  
